@@ -6206,9 +6206,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 systeminformation@^5.7:
-  version "5.21.20"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.21.20.tgz#16bd0d0c4118d00e670409a1f592ba7043159d2c"
-  integrity sha512-AyS1fNc+MDoAJtFknFbbo587H8h6yejJwM+H9rVusnOToIEkiMehMyD5JM7o3j55Cto20MawIZrcgNMgd4BfOQ==
+  version "5.25.11"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.25.11.tgz#7d47a14dafbc9cf6c21bc02d19a2121a8c770d88"
+  integrity sha512-jI01fn/t47rrLTQB0FTlMCC+5dYx8o0RRF+R4BPiUNsvg5OdY0s9DKMFmJGrx5SwMZQ4cag0Gl6v8oycso9b/g==
 
 table@^5.2.3:
   version "5.4.6"
